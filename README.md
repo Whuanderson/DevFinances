@@ -11,7 +11,7 @@
 </div>
  
 <div align="center">
-  <img alt="RentX" title="RentX" src=".github/capadev.png" />
+  <img alt="DevFinances" title="DevFinances" src=".github/capadev.png" />
 </div>
   
  <p align="center">
