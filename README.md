@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="DevFinances" width="280" height="40" title="DevFinances" src=".github/logo.png" />
+  <img alt="DevFinances" width="280" height="40" title="DevFinances" src="https://raw.githubusercontent.com/Whuanderson/DevFinances/refs/heads/main/.github/logo.png" />
 </h1>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
  
 <div align="center">
-  <img alt="DevFinances" title="DevFinances" src=".github/capadev.png" />
+  <img alt="DevFinances" title="DevFinances" src="https://raw.githubusercontent.com/Whuanderson/DevFinances/refs/heads/main/.github/capadev.png" />
 </div>
   
  <p align="center">
